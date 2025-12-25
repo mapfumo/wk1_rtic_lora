@@ -89,8 +89,8 @@ cargo install probe-rs --features cli
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/stm32-lora-rtic
-cd stm32-lora-rtic
+git clone https://github.com/mapfumo/wk1_rtic_lora.git
+cd wk1_rtic_lora
 
 # Build
 cargo build --release
@@ -308,12 +308,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Author:** Antony Mapfumo  
-**Project Link:** [https://github.com/yourusername/stm32-lora-rtic](https://github.com/yourusername/stm32-lora-rtic)
+**Project Link:** [https://github.com/mapfumo/wk1_rtic_lora](https://github.com/mapfumo/wk1_rtic_lora)
 
 ---
 
 ⭐ **Star this repo if it helped you!**
 
-💬 **Questions?** Open an issue or check [LORA_TROUBLESHOOTING.md](LORA_TROUBLESHOOTING.md)
+💬 **Questions?** Open an issue or check [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 
 🐛 **Found a bug?** Please report it with details from the troubleshooting guide
